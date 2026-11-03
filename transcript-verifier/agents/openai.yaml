@@ -1,0 +1,7 @@
+interface:
+  display_name: "逐字稿复核"
+  short_description: "联网核查双语会议逐字稿并直接修订，保留完整修改记录"
+  default_prompt: "使用 $transcript-verifier 复核这份会议逐字稿；如有 BP、会议笔记或术语资料，请一并参考，直接修改正文并输出完整修改记录。"
+
+policy:
+  allow_implicit_invocation: true

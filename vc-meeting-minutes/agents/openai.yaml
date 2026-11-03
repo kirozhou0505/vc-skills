@@ -1,0 +1,4 @@
+interface:
+  display_name: "VC会议纪要"
+  short_description: "按主题整理 VC 项目信息，交付飞书可用的富文本 HTML 纪要"
+  default_prompt: "使用 $vc-meeting-minutes 把这次 VC 项目沟通整理成富文本 HTML 纪要，正文直接从项目内容开始，按主题写信息和进展，不复述问答，不做投资判断。"
