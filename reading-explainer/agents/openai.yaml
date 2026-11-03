@@ -1,0 +1,7 @@
+interface:
+  display_name: "段落与术语研读解释"
+  short_description: '持续研读段落逻辑，在术语名称下列要点并记住已解释概念'
+  default_prompt: '使用 $reading-explainer 进入持续研读模式：按需补背景，讲清段落主旨与逻辑；每个新术语名称单独成行，其下用无序列表详解；段落加333时集中讲新术语。'
+
+policy:
+  allow_implicit_invocation: false

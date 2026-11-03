@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资报告写作"
+  short_description: "用投资人视角撰写行业研究、立项与投决材料，减少空泛 AI 文风"
+  default_prompt: "使用 $investment-report-writing 将这份材料改写成判断鲜明、证据扎实的中文投资报告。"

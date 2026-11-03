@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业材料转行业研究"
+  short_description: "从 BP 或会议纪要出发，生成企业所处赛道的行业研究报告"
+  default_prompt: "使用 $company-to-industry-report，根据我提供的 BP 或会议纪要生成该企业所处行业的研究报告。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐家讲明白企业"
+  short_description: "通俗解释公司产品、发展阶段和国内外竞争位置"
+  default_prompt: "使用 $company-deep-dive-explainer，给我讲明白这家公司的产品、发展和竞争位置。"
